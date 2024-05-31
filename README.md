@@ -1,4 +1,2 @@
-- 👋 Hi, I am Saksham Taneja
-- 🌱 I am currently working as a Full-Stack developer
-- 📫 Reach me Email - @sakshamtaneja68@gmail.com OR Twitter - https://twitter.com/sakshamtan
-- 👨🏽‍💻Check out my Personal Site @https://sakshamtan.github.io/Personal-Site/
+Full-Stack developer
+Twitter - https://twitter.com/sakshamtan
